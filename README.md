@@ -1,24 +1,17 @@
-# myapp
+A simple example of a vue app deploy on netlify.
 
-## Project setup
-```
-npm install
-```
+This is created using @vue/cli 4.1.1.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+App deployed on netlify:
+[https://app-deploy-example.netlify.com/](https://app-deploy-example.netlify.com/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-----  
+:relaxed:  
+by: Wilson Neto  
+contato@wilsonneto.com.br
+
+[Linkedin](https://linkedin.com/in/wilsonnetobr/)
+[Blog](http://wilsonneto.com.br)
+[Github](https://github.com/wilsonneto-dev)  
