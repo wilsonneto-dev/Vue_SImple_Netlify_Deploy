@@ -11,7 +11,6 @@ App deployed on netlify:
 :relaxed:  
 by: Wilson Neto  
 contato@wilsonneto.com.br
-
 [Linkedin](https://linkedin.com/in/wilsonnetobr/)
 [Blog](http://wilsonneto.com.br)
 [Github](https://github.com/wilsonneto-dev)  
